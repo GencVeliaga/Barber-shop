@@ -1,0 +1,159 @@
+*{
+    margin :0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    color: whitesmoke;
+    text-align: left;
+    font-size: 59px;
+    margin-left: 50px;
+}
+h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+    text-align: left;
+    font-size: 75px;
+    margin-left: 50px;
+    margin-top: 75px;
+}
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    
+    
+}
+.menu {
+    list-style: none;
+    margin-top: 5px;
+    padding: 0;
+    text-align:right;
+    margin-right: 10px;
+}
+.menu li{
+    display: inline;
+}
+.menu a{
+    display: inline-block;
+    padding: 8px;
+    font-size: 21px;
+    color:chocolate;
+
+    text-align: center;
+    text-decoration: none;
+}
+.img1{
+    background-image: url(../barber/backgrond.jpg);
+    display: scroll;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    background-size: 99% 95%;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 2px;
+    color: chocolate;
+    text-align: center; 
+    font-size: 40px;
+}
+.img2{
+background-image: url(../barber/hair.jpg);
+ position: relative;
+justify-content: center;
+align-items: center;
+background-repeat: no-repeat;
+height:90vh;
+background-size: 70% 85%;
+margin-left: 9px;
+margin-top: 20px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chocolate;
+    text-align:right;
+    font-size: 17px;
+    margin-right: 110px;
+    margin-top: 95px;
+
+}
+h3{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    color: chocolate;
+    text-align: right; 
+    font-size: 40px;
+    margin-right: 130px;
+    
+}
+.img3{
+    background-image:url(../barber/cutt\ cutt.jpg);
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    height:90vh;
+    background-size: 70% 85%;
+    margin-top: 0;
+    margin-left: 9px;
+    
+}
+.img4{
+    background-image:url(../barber/shower\ shower.jpg);
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    height:90vh;
+    background-size: 70% 85%;
+    margin-top: 0;
+    margin-left: 9px;
+}
+button{
+    width: 250px;
+    height: 50px;
+    margin: 100px;
+    border-radius: 40px;
+    background: #dcdcdc;
+    color:chocolate;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 620px;
+    
+}
+#full-name{
+    font-size: 18px;
+    color: chocolate;
+    text-align: center;
+    align-items: center;
+    margin-left: 630px;
+}
+#telefonit{
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    margin-left: 630px;
+    color:chocolate;
+}
+h4{
+    margin-left:670px ;
+    color: chocolate;
+    font-size: 18px;
+}
+.img5{
+    background-image: url(../barber/fb-insta.jfif);
+    display: scroll;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    height:200px;
+    width: 300px;
+    margin-bottom: 250px;
+    margin-left: 9px;
+    border-radius: 10px;
+}
